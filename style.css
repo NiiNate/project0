@@ -1,0 +1,62 @@
+.navclr {
+  background-color: chartreuse;;
+}
+
+table th {
+  background-color: chartreuse;
+}
+
+.tfor {
+  text-align: center;
+  font-weight: bold;
+}
+
+.navbar-nav li {
+    padding-right: 30px;
+    }
+    
+   .specp{
+       font-size:18px;
+   }
+    
+    hr{
+        width: 50%;
+    }
+    .marg{
+        margin-left: 50px;
+        margin-left:90px;
+    }
+    .margl{
+        margin-left: 90px;
+    }
+    .margr{
+        margin-left:90px;
+    }
+
+/*# sourceMappingURL=style.css.map */
+#hub{
+    text-align: center;
+    font-weight:bold;
+}
+li >a{
+font-weight: bold;
+}
+
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 500px;
+
+}
+
+th,td{
+    border: 1px solid black;
+    padding:5px;
+    font-size: 25px;
+}
+
+div > p{
+    font-size: 30px;
+}
+
+

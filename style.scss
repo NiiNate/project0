@@ -1,0 +1,20 @@
+$color:#ff3333;
+
+.navclr{
+    background-color: $color;
+}
+
+table{
+    th{
+        background-color: chartreuse;
+    }
+}
+
+%tableform{
+    text-align: center;
+    font-weight: bold;
+}
+
+.tfor{
+    @extend %tableform;
+}
